@@ -52,7 +52,7 @@ $config = [
                 'class' => 'Swift_SmtpTransport',
                 'host' => 'smtp.gmail.com',
                 'username' => 'projetodwgrupo13@gmail.com',
-                'password' => '?;$@XaG65s$f3&)r;xbMYJS~)~;P',
+                'password' => 'creedtheoffice',
                 'port' => '587',
                 'encryption' => 'tls',
             ],
